@@ -3,6 +3,9 @@ layout: single
 title:  "[딥러닝 부트캠프] 1. Machine Learning Models"
 ---
 
+2022년 여름방학에 3주간 서울시립대에서 진행되었던 딥러닝 부트캠프 관련 코드이다.
+신경망을 적용해보기 이전 다양한 머신러닝 모델을 활용해 성능을 측정하였다.
+
 ```python
 import numpy as np
 import pandas as pd
