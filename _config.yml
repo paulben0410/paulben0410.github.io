@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Minseok's Learning"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Minseok Jeon"
 description              : "코딩, 머신러닝 관련 공부"
 url                      : "https://paulben0410.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Minseok Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Always learning something"
+  bio              : "Learning something"
   location         : "Seoul"
   email            :
   links:
