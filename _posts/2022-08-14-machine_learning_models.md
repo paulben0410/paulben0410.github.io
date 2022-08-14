@@ -345,9 +345,6 @@ knn.fit(X_train, y_train)
 predictions = knn.predict(X_test)
 ```
 
-    /opt/homebrew/Caskroom/miniforge/base/envs/jedi/lib/python3.8/site-packages/sklearn/neighbors/_classification.py:237: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
-      mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
-
 
 
 ```python
