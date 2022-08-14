@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "[딥러닝 부트캠프] 1. Machine Learning Models"
+---
+
 ```python
 import numpy as np
 import pandas as pd
