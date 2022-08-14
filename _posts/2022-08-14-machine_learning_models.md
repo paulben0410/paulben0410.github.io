@@ -135,7 +135,7 @@ sns.countplot(x='label',data=df)
 
 
     
-![png](output_10_1.png)
+![png](/assets/images/output_10_1.png)
     
 
 
